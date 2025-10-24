@@ -1,3 +1,4 @@
+import 'package:demo/packages/chat/pay/lib/main.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -11,8 +12,10 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       home: Scaffold(
-        body: Center(
-          child: Text('Hello World!'),
+        body: Column(
+          children: [
+            ChatPayScreen()
+          ],
         ),
       ),
     );
