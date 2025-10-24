@@ -10,3 +10,6 @@
 [submodule "lib/core/common"]
 	path = lib/core/common
 	url = https://github.com/BuiThiDao/common.git
+[submodule "lib/core/theme"]
+	path = lib/core/theme
+	url = https://github.com/BuiThiDao/theme.git
