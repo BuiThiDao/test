@@ -4,3 +4,6 @@
 [submodule "lib/packages/chat/pay"]
 	path = lib/packages/chat/pay
 	url = https://github.com/BuiThiDao/pay.git
+[submodule "lib/packages/profile"]
+	path = lib/packages/profile
+	url = https://github.com/BuiThiDao/profile.git
