@@ -10,12 +10,12 @@ dependencies:
   flutter:
     sdk: flutter
 
-  home:
-    path: packages/home
-  pay:
-    path: packages/pay
-  login:
-    path: packages/login
+#  home:
+#    path: packages/home
+#  pay:
+#    path: packages/pay
+#  login:
+#    path: packages/login
 
 dev_dependencies:
   flutter_test:

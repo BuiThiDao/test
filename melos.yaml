@@ -1,8 +1,8 @@
 name: demo
 packages:
-  - packages/home
-  - packages/login
-  - packages/pay
+  - lib.packages/home
+  - lib.packages/login
+  - lib.packages/pay
 
 
 
