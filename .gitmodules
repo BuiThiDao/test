@@ -7,3 +7,6 @@
 [submodule "lib/packages/profile"]
 	path = lib/packages/profile
 	url = https://github.com/BuiThiDao/profile.git
+[submodule "lib/core/common"]
+	path = lib/core/common
+	url = https://github.com/BuiThiDao/common.git
